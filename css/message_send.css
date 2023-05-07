@@ -1,0 +1,34 @@
+.massage_send {
+    height: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.massage_f {
+    background-color: aliceblue;
+    border-radius: 10px;
+    width: 90%;
+    padding: 10px;
+}
+.message {
+    height: 54px;
+    width: 90%;
+    left: 0;
+    box-sizing: border-box;
+    font-size: 2em;
+    background: transparent;
+    border: 0;
+
+}
+
+.send {
+    height: 54px;
+    width: 9%;
+    left: 500px;
+    box-sizing: border-box;
+    background: transparent;
+    border: 0;
+    cursor: pointer;
+}
+
+

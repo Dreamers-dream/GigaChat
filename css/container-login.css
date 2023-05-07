@@ -1,0 +1,18 @@
+.container-login {
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+    width: 570px;
+    height: 250px;
+    color: white;
+    box-shadow: 0 0 60px white;
+    border-radius: 10px;
+    margin-left: 50px;
+    padding: 0;
+    justify-content: center;
+    align-items: center;
+
+}
+.name-login {
+    font-size: 200%;
+}
